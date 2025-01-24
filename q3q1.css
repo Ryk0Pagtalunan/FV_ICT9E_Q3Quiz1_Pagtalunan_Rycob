@@ -1,0 +1,30 @@
+body{
+	background-color: #d92323;
+		background-image: url(https://i.pinimg.com/736x/05/9a/ec/059aec788d234dc6acccee7b64c53527.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.container1{
+	background-color: #0d2dbd;
+	width: 500px;
+	padding: 10px;
+	border: 5px solid #161D6F;
+	box-shadow: 2px 2px 15px rgb(0,0,0, 1.2);
+	margin: 45px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#Operator{
+	font-size: 30px;
+	font-family: Optima;
+	font-weight: bold;
+	font-style: italic;
+}
+p{
+	font-weight: bold;
+}
